@@ -1,6 +1,6 @@
-package com.czj.webdemo.service;
+package com.czj.webdemo.modules.cc.service;
 
-import com.czj.webdemo.domain.User;
+import com.czj.webdemo.modules.cc.domain.User;
 
 public interface IUserService {
     /**

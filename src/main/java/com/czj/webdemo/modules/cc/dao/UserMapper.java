@@ -1,6 +1,6 @@
-package com.czj.webdemo.dao;
+package com.czj.webdemo.modules.cc.dao;
 
-import com.czj.webdemo.domain.User;
+import com.czj.webdemo.modules.cc.domain.User;
 import org.apache.ibatis.annotations.Mapper;
 import org.springframework.stereotype.Repository;
 

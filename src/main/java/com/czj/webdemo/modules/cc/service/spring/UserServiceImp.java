@@ -1,8 +1,8 @@
-package com.czj.webdemo.service.spring;
+package com.czj.webdemo.modules.cc.service.spring;
 
-import com.czj.webdemo.dao.UserMapper;
-import com.czj.webdemo.domain.User;
-import com.czj.webdemo.service.IUserService;
+import com.czj.webdemo.modules.cc.dao.UserMapper;
+import com.czj.webdemo.modules.cc.domain.User;
+import com.czj.webdemo.modules.cc.service.IUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
